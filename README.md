@@ -7,3 +7,8 @@ This is a git repository to demo merge conflicts
 3. Modify the file in your computer
 4. Git commit
 5. Git push
+
+## Details
+* Author: Karina
+* Date Jun 27th
+* sdflkjafldjsflksaj
